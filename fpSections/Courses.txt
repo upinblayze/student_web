@@ -1,0 +1,7 @@
+Courses
+
+Currently enrolled in<ul><li>Advanced Algorithms</li><li>Information Retrieval</li></ul>
+Here are few courses that I have enjoyed
+
+In Electrical Engineering<ul><li>Design of Computer Subsystems</li><li>Antennas</li><li>Microcomputer Systems</li><li>Microwave Electrical Design</li><li>Computer Design Organization</li><li>Discrete & Continuous Time Linear Systems</li></ul>
+In Computer Science<ul><li>Design & Analysis of Algorithms</li><li>Applied Distributed Computing</li></ul>

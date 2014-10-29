@@ -1,0 +1,11 @@
+About Me
+
+I am a current graduate student at the University of Washington Tacoma where I am studying Computer Science. Following up an Embedded Systems background in the Electrical Engineering field, Computer Science was the obvious choice to continue to learn and expand the things I love to do. As an undergrad, I quickly chose to be an Electrical Engineer and studied antenna design and embedded systems due to the motivations of rapid development of cell phones from about 2004-2010.
+
+I have a particular interest in integrating the worlds of electrical engineering and computer science. With robotics as a particular interest, it seem crucial that the two worlds merge. My interests extend beyond just robotics. 
+
+On the EE side I still have interests in Signal Processing, Antenna Theory and Control Theory. These areas could be applied to sensor networks, antenna design, robotics, and augmented reality. I feel that these areas can either be separate fields, or bundled into one to create a masterful piece of work that can handle a multitude of tasks.
+
+Some of these areas would not be complete without some help of computer science. Algorithms would significantly help signal processing. Antenna design is done with CAD software to compute extremely complex differential equations to deal with signal propagation. Computer science will help make use of the information gathered by all of these areas in electrical engineering. What is a robot if it was not automated to make decisions? It would have to be human controlled. Can we even do augmented reality without signal processing and actually make use of the processed signals? Electrical Engineering and Computer Science are typically taught in a single department for the reason that they are codependent.
+
+My general attitude is to solve problems with electricity as a medium. Because electricity is so efficient and can be manipulated, it is exciting to see what we can possibly solve with it. Computers are the ultimate users of electricity to where we can make sense of information and electronics are what we need to gather information. 

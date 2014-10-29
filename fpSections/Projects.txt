@@ -1,0 +1,9 @@
+Projects
+Here are a few projects that I have worked on
+<ul><li>Distributed Systems<ul><li>Paxos KV-Store</li><li>Two-Phase Commit KV-Store</li></ul></li><li>Embedded Systems<ul><li>Smart Meter</li><li>Adaptive Cruise Control</li></ul></li><li>E&M/Antennas/Wireless<ul><li>4x4 2.4GHz Array Antenna</li><li>5GHz Circularly Polarized GPS Antenna</li><li>Barker Code DSSS emulation</li><li>FM Transmitter and Receiver</li></ul></li></ul>
+Here are a few web projects I have done, these were from a web course that I unofficially followed
+<a href="HW3/movie.php?film=tmnt" target="_blank">Rotten Tomatoes</a>
+<a href="HW4/nerdluv.php" target="_blank">Nerd Luv</a>
+<a href="HW5/start.php" target="_blank">To Do List</a>
+<a href="HW7/ascii.html" target="_blank">Ascii Animation</a>
+<a href="HW8/fifteen.html" target="_blank">Fifteen Puzzle</a>

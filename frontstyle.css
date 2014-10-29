@@ -1,0 +1,94 @@
+body{
+	background-color: #000000;
+	color:rgb(232,211,162);
+	font-family: 'Open';
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#links{
+	float:left;
+}
+#links ul{
+	list-style-type: none;
+	padding:0;
+	width:148px;
+}
+#links li{
+	font-weight:bold;
+	font-family: 'Uni';
+	background-color:rgb(232,211,162);
+	font-size: 1.5em;
+	color: rgb(51,0,111);
+	border-style: solid;
+	border-width: 3px;
+	border-color: rgb(145,123,76);
+	border-radius: 10px;
+	padding:5px;
+	margin-bottom: 5px;
+}
+
+a:link{
+	text-decoration: none;
+	color:rgb(145,123,76);
+}
+a:visited{
+	
+	text-decoration: none;
+	color:rgb(145,123,76);
+}
+h1{
+	color:white;
+	text-transform: capitalize;
+	font-family: 'Encode';
+	margin-bottom: 0px;
+}
+h2{
+	font-family: 'Uni';
+	font-style: italic;
+	color:rgb(51,0,111);
+}
+.SecTitle{
+	font-family: 'Uni';
+	font-weight:bold;
+	color:rgb(145,123,76);
+	font-size: 1.5em;
+}
+#design{
+	float:left;
+	font-style: italic;
+	width:100%;
+}
+#design img{
+	float:right;
+}
+.section{
+	font-family: 'Helvetica';
+	background-color: rgb(51,0,111);
+	border-style: solid;
+	border-width: 3px;
+	border-color: rgb(153,153,153);
+	border-radius: 10px;
+	padding:10px;
+	margin: 10px;
+	width:800px;
+	float:left;
+}
+
+@font-face{
+
+	font-family: 'Encode';
+	src: url('EncodeSansNormal-900-Black.ttf') format('truetype');
+}
+
+@font-face{
+
+	font-family: 'Open';
+	src: url('Open Sans 300.ttf') format('truetype');
+}
+@font-face{
+
+	font-family: 'Uni';
+	src: url('Fontfabric - UniSansLight.otf') format('opentype');
+}
