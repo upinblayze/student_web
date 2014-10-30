@@ -9,7 +9,7 @@
 		</h1>
 			<img src="Bar_RtAngle_RGB.png" width="200" height="7">
 		<h2>
-			"I am the stone that the buider refused" -Asheru
+			"I am the stone that the builder refused" -Asheru
 		</h2>	
 			<?php
 				$dir='fpSections';
