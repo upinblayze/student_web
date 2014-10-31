@@ -1,4 +1,4 @@
 Links
-<a href="HW3/movie.php?film=tmnt" target="_blank">My Resume</a>
-<a href="http://www.github.com/upinblayze">GitHub Account</a>
-<a href="http://www.LinkedIn.com/in/kellencheng">LinkedIn</a>
+<a href="Rezzz.pdf" target="_blank">My Resume</a>
+<a href="http://www.github.com/upinblayze" target="_blank">GitHub Account</a>
+<a href="http://www.LinkedIn.com/in/kellencheng" target="_blank">LinkedIn</a>
